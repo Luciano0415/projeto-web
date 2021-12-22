@@ -14,3 +14,17 @@ main {
     padding: 12px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.438);
 }
+main header > h1 {
+    background-image: linear-gradient(to left, #634206, #805f23, #b68223);
+    color: #362300;
+    padding: 8px;
+    text-align: center;
+    text-transform: uppercase;
+}
+main article h2 {
+    color: #9F31DE;
+    text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.541);
+}
+main article p {
+    text-indent: 25px;
+}
